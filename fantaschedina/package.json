@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/musikele/fantaschedina/issues"
   },
-  "homepage": "https://github.com/musikele/fantaschedina"
+  "homepage": "https://github.com/musikele/fantaschedina",
+  "dependencies": {
+    "express": "^4.12.0"
+  }
 }

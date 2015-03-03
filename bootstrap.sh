@@ -22,4 +22,3 @@ fi
 
 npm install -g grunt
 
-
